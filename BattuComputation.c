@@ -3,7 +3,7 @@
 * finding the total area for the number of cylinders for
 * the radius and heights provided by the user.
 *
-* Completion time: (estimation of hours spent on this program)
+* Completion time: 0.5 Hours
 *
 * @author (Swarag Reddy Battu), Base code provided in the assignment module provided in canvas
 * @version C language.
