@@ -1,10 +1,10 @@
 /**
-* (basic description of the program or class)
+* Implementing display_chunks, sort_chunks and decrypt_chunks functions.
 *
-* Completion time: (estimation of hours spent on this program)
+* Completion time: 1.5 hours
 *
-* @author (your name), (anyone else, e.g., Acuna, whose code you used)
-* @version (a version number or a date)
+* @author Swarag Reddy Battu, Base code provided by the assignment module in canvas
+* @version C language
 */
 ////////////////////////////////////////////////////////////////////////////////
 //INCLUDES
